@@ -5,7 +5,7 @@ import abstractFactory.color.Color;
 
 /**
  * @Author:pengfei
- * @Description
+ * @Description 工厂接口，里面有要生产该成品对应的工厂
  * @Date:Created in 18:07 2018/7/24
  * @Modified by
  */

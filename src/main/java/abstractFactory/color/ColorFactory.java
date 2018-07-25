@@ -5,7 +5,7 @@ import abstractFactory.car.Car;
 
 /**
  * @Author:pengfei
- * @Description
+ * @Description 继承抽象工厂接口实现颜料工厂方法来生产各种颜料
  * @Date:Created in 18:08 2018/7/24
  * @Modified by
  */

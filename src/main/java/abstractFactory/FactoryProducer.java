@@ -5,7 +5,7 @@ import abstractFactory.color.ColorFactory;
 
 /**
  * @Author:pengfei
- * @Description
+ * @Description 总工厂来实现各个分工厂
  * @Date:Created in 18:11 2018/7/24
  * @Modified by
  */

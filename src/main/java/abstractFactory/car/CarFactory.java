@@ -5,7 +5,7 @@ import abstractFactory.color.Color;
 
 /**
  * @Author:pengfei
- * @Description
+ * @Description 继承抽象工厂接口实现汽车工厂方法来生产各种汽车
  * @Date:Created in 18:00 2018/7/24
  * @Modified by
  */
