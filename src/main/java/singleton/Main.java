@@ -2,7 +2,7 @@ package singleton;
 
 /**
  * @Author:pengfei
- * @Description
+ * @Description 单例设计模式 该类负责创建自己的对象，同时确保只有单个对象被创建。这个类提供了一种访问其唯一的对象的方式，可以直接访问，不需要实例化该类的对象。
  * @Date:Created in 16:59 2018/7/24
  * @Modified by
  */
